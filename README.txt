@@ -1,4 +1,4 @@
-VASMU RESIZER: website package 
+VASMU RESIZER: website package  https://vasmuresizer.freedev.app/
 =====================================================
 
 Files (keep ALL of them together in ONE folder)
