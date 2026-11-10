@@ -1,4 +1,4 @@
-VASMU RESIZER: website package for https://vishujeetkumar.vasmustudy.site
+VASMU RESIZER: website package 
 =====================================================
 
 Files (keep ALL of them together in ONE folder)
@@ -25,16 +25,12 @@ of vishujeetkumar.vasmustudy.site (or open it at its own address). Free hosts wi
 Cloudflare Pages or Netlify. InfinityFree also works, but its security system can
 block link-preview robots.
 
-If the site opens at a path such as https://vishujeetkumar.vasmustudy.site/myfolder/ instead of
-https://vishujeetkumar.vasmustudy.site/ then update these three places with the real address:
+If the site opens at a path such 
   1. the canonical, og:url and og:image lines in index.html, donate.html, privacy.html, terms.html
   2. sitemap.xml
   3. robots.txt (it only works when it sits at the very top of the domain)
 
-Point the subdomain
--------------------
-In the DNS settings of vasmustudy.site, point "vishujeetkumar" where your host
-tells you (a CNAME or A record), then switch on HTTPS/SSL.
+
 
 After it is live
 ----------------
